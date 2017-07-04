@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<p>About Me</p>
+<p>Hi! Welcome to my portfolio.</p>
 
 </body>
 </html>
