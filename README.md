@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>ABOUT ME</title>
+ABOUT ME
   <meta charset="UTF-8">
 </head>
 <body>
@@ -21,7 +21,6 @@
 
 Thanks,
 Hannah Lane</p>
-<p>About Me.</p>
 
 </body>
 </html>
