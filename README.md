@@ -8,7 +8,17 @@
 </head>
 <body>
 
-<p>Hannah Lane's Portfolio</p>
+<p>About Me</p>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Welcome to my portfolio.</p>
+<p>About Me.</p>
 
 </body>
 </html>
