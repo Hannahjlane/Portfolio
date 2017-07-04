@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Hannah Lane's Portfolio</title>
+  <title>ABOUT ME</title>
   <meta charset="UTF-8">
 </head>
 <body>
