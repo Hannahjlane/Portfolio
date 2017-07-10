@@ -2,8 +2,8 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-ABOUT ME
+
+<h1>ABOUT ME</h1>
 
 
   <meta charset="UTF-8">
