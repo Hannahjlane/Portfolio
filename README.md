@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html>
 
+<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -13,6 +14,12 @@ body  {
 </style>
 </head>
 <body>
+
+<h1>Hello World!</h1>
+
+</body>
+</html>
+
         
 <h1 style="RGB:(244, 143, 177);">ABOUT ME</h1>
 
