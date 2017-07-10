@@ -20,6 +20,10 @@ Thanks,
 
 Hannah Lane</p>
 
+
+<img src="http://www.mercurynews.com/wp-content/uploads/2016/10/slgw1014house01.jpg?w=486" alt="Mountain View" style="width:304px;height:228px;">
+
+
 </body>
 </html>
 
