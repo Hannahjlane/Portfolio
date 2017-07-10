@@ -38,7 +38,8 @@ Hannah Lane</p>
   background: #007bb5;
   color: white;
 }
-
+<h2>Style Social Media Buttons</h2>
+<a href="#" class="fa fa-linkedin"></a>
 
 </body>
 </html>
