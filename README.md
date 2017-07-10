@@ -4,7 +4,7 @@
 <html>
 
 body  {
-    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/40/b9/ef/40b9ef90614f18ff30652ebf7c6aadad.jpg");
+    background-image: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX18283425.jpg);
     background-color: #cccccc;
 }
         
