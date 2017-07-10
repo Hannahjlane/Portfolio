@@ -25,7 +25,7 @@ Hannah Lane</p>
 
 <img src="https://media.giphy.com/media/TKqXCyRwqf0DC/giphy.gif"/>
 
-<gifsicle --scale 0.5 -i animation.gif > animation-smaller.gif img src="https://media.giphy.com/media/l0HFkso2E6ty4naCs/giphy.gif"/> 
+<gifsicle --scale 0.5 -i animation.gif > "https://media.giphy.com/media/l0HFkso2E6ty4naCs/giphy.gif"> src="https://media.giphy.com/media/l0HFkso2E6ty4naCs/giphy.gif"/> 
 
 </body>
 </html>
