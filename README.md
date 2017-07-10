@@ -3,13 +3,10 @@
 <!DOCTYPE html>
 <html>
 
-<style>
-background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/EplCz7dteik3u4pvh/aerial-drone-footage-of-ocean-waves-crashing-on-shore-as-the-waves-splash-they-create-a-texture-from-the-white-sea-foam-as-the-waves-calm-the-appearance-and-patterns-change-the-video-is-filmed-from-an-overhead-perspective_4w9wlh83e__M0014.jpg");
-</style>
- 
-</head>
- 
-<body>
+body  {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/40/b9/ef/40b9ef90614f18ff30652ebf7c6aadad.jpg");
+    background-color: #cccccc;
+}
         
 <h1 style="RGB:(244, 143, 177);">ABOUT ME</h1>
 
