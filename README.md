@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 
-<h1 style="color:(244, 143, 177);">ABOUT ME</h1>
+<h1 style="RGB:(244, 143, 177);">ABOUT ME</h1>
 
 
   <meta charset="UTF-8">
