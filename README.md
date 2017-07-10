@@ -3,15 +3,7 @@
 <!DOCTYPE html>
 <html>
 
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1 style="color:hotpink;">ABOUT ME</h1>
-
-</body>
-</html>
-
+<h1 style="color:blue;">ABOUT ME</h1>
 
 
   <meta charset="UTF-8">
@@ -38,4 +30,3 @@ Hannah Lane</p>
 
 </body>
 </html>
-
