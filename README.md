@@ -18,7 +18,10 @@ Hannah Lane</p>
 
 <img src="https://media.giphy.com/media/l0HFkso2E6ty4naCs/giphy.gif"/>
 
+JButton button = new JButton();
 
+    ... set properties here...
+button.setText("blah");
 
 </body>
 </html>
