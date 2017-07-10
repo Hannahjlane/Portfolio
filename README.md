@@ -21,7 +21,7 @@ Thanks,
 Hannah Lane</p>
 
 
-<img src="http://www.mercurynews.com/wp-content/uploads/2016/10/slgw1014house01.jpg?w=486" alt="Helping Others" style="width:200px;height:100px;">
+<img src="http://www.mercurynews.com/wp-content/uploads/2016/10/slgw1014house01.jpg?w=486" alt="Helping Others" style="width:100px;height:100px;">
 
 
 </body>
