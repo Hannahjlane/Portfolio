@@ -3,10 +3,16 @@
 <!DOCTYPE html>
 <html>
 
+<html>
+<head>
+<style>
 body  {
-    background-image: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX18283425.jpg);
+    background-image: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX18283425.jpg");
     background-color: #cccccc;
 }
+</style>
+</head>
+<body>
         
 <h1 style="RGB:(244, 143, 177);">ABOUT ME</h1>
 
