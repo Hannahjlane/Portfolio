@@ -6,7 +6,7 @@
 <h1 style="color:pink;">ABOUT ME</h1>
 
 
-<meta charset="UTF-8">
+  <meta charset="UTF-8">
 </head>
 <body>
 
