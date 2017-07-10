@@ -18,7 +18,8 @@ Hannah Lane</p>
 
 <img src="https://media.giphy.com/media/l0HFkso2E6ty4naCs/giphy.gif"/>
 
-
+background-image: url('https://media.giphy.com/media/l0HFkso2E6ty4naCs/giphy.gif');
+background-size: cover;
 
 </body>
 </html>
