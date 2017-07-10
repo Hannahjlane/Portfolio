@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 
-<h1>ABOUT ME</h1>
+<h1 style="color:pink;">ABOUT ME</h1>
 
 
   <meta charset="UTF-8">
