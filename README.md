@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html>
 
+background="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX18283425.jpg">
         
 <h1 style="RGB:(244, 143, 177);">ABOUT ME</h1>
 
