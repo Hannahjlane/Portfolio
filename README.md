@@ -3,7 +3,15 @@
 <!DOCTYPE html>
 <html>
 
-<h1 style="color:pink;">ABOUT ME</h1>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="color:hotpink;">ABOUT ME</h1>
+
+</body>
+</html>
+
 
 
   <meta charset="UTF-8">
