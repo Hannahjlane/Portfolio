@@ -4,8 +4,7 @@
 <html>
 
 <style>
-body {
-        background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/EplCz7dteik3u4pvh/aerial-drone-footage-of-ocean-waves-crashing-on-shore-as-the-waves-splash-they-create-a-texture-from-the-white-sea-foam-as-the-waves-calm-the-appearance-and-patterns-change-the-video-is-filmed-from-an-overhead-perspective_4w9wlh83e__M0014.jpg");
+background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/EplCz7dteik3u4pvh/aerial-drone-footage-of-ocean-waves-crashing-on-shore-as-the-waves-splash-they-create-a-texture-from-the-white-sea-foam-as-the-waves-calm-the-appearance-and-patterns-change-the-video-is-filmed-from-an-overhead-perspective_4w9wlh83e__M0014.jpg");
         
 <h1 style="RGB:(244, 143, 177);">ABOUT ME</h1>
 
