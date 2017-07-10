@@ -3,7 +3,16 @@
 <!DOCTYPE html>
 <html>
 
-background="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX18283425.jpg">
+<!DOCTYPE html>
+<html>
+<body background="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX18283425.jpg">
+
+<h1>Hello world!</h1>
+<p><a href="https://www.w3schools.com">Visit W3Schools.com!</a></p>
+<p>The background attribute is not supported HTML5. Use CSS instead.</p>
+
+</body>
+</html>
         
 <h1 style="RGB:(244, 143, 177);">ABOUT ME</h1>
 
