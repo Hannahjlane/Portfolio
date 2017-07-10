@@ -37,6 +37,7 @@ Hannah Lane</p>
     .fa-instagram {
   background: #125688;
   color: white;
+<a href="#" class="fa fa-instagram"></a>
 
 </body>
 </html>
