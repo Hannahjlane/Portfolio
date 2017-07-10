@@ -23,7 +23,7 @@ Hannah Lane</p>
 
 <img src="http://www.mercurynews.com/wp-content/uploads/2016/10/slgw1014house01.jpg?w=486" alt="Helping Others" style="width:100px;height:100px;">
 
-<img src="https://media.giphy.com/media/TKqXCyRwqf0DC/giphy.gif"/ style="width:100px;height:100px;">
+<img src="https://media.giphy.com/media/TKqXCyRwqf0DC/giphy.gif"/".
 
 <img src="https://media.giphy.com/media/l0HFkso2E6ty4naCs/giphy.gif"/>
 
