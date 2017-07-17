@@ -18,6 +18,14 @@ Hannah Lane</p>
 
 <img src="https://media.giphy.com/media/l0HFkso2E6ty4naCs/giphy.gif"/>
 
-
+(myvenv) C:\Users\Name\djangogirls> django-admin.py startproject mysite .djangogirls
+├───manage.py
+└───mysite
+        settings.py
+        urls.py
+        wsgi.py
+        __init__.py
+       
+        
 </body>
 </html>
